@@ -13,7 +13,7 @@ dependencies {
     implementation 'com.opencsv:opencsv:5.5.2'
 
     testImplementation 'junit:junit:4.13'
-    implementation 'org.hamcrest:hamcrest:2.2'
+    testImplementation 'org.hamcrest:hamcrest:2.2'
 }
 
 test {
